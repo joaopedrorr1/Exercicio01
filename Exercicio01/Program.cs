@@ -19,7 +19,7 @@ namespace Exercicio01
                 produto.Nome = Console.ReadLine();
 
                 Console.Write("Informe o Preço do Produto..............: ");
-                produto.Preco = decimal.Parse(Console.ReadLine());
+                produto.Preco = double.Parse(Console.ReadLine());
 
                 Console.Write("Informe a Quantidade do Produto.........: ");
                 produto.Quantidade = int.Parse(Console.ReadLine());

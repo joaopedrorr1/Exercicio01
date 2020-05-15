@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JoaoPedro\\source\\repos\\Exercicio01\\Exercicio01\\Exercicio01.csproj": {}
+    "C:\\Users\\JoaoPedro\\Source\\Repos\\Exercicio01\\Exercicio01\\Exercicio01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JoaoPedro\\source\\repos\\Exercicio01\\Exercicio01\\Exercicio01.csproj": {
+    "C:\\Users\\JoaoPedro\\Source\\Repos\\Exercicio01\\Exercicio01\\Exercicio01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JoaoPedro\\source\\repos\\Exercicio01\\Exercicio01\\Exercicio01.csproj",
+        "projectUniqueName": "C:\\Users\\JoaoPedro\\Source\\Repos\\Exercicio01\\Exercicio01\\Exercicio01.csproj",
         "projectName": "Exercicio01",
-        "projectPath": "C:\\Users\\JoaoPedro\\source\\repos\\Exercicio01\\Exercicio01\\Exercicio01.csproj",
+        "projectPath": "C:\\Users\\JoaoPedro\\Source\\Repos\\Exercicio01\\Exercicio01\\Exercicio01.csproj",
         "packagesPath": "C:\\Users\\JoaoPedro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JoaoPedro\\source\\repos\\Exercicio01\\Exercicio01\\obj\\",
+        "outputPath": "C:\\Users\\JoaoPedro\\Source\\Repos\\Exercicio01\\Exercicio01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JoaoPedro\\AppData\\Roaming\\NuGet\\NuGet.Config",

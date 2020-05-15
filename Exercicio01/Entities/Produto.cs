@@ -6,7 +6,7 @@ namespace Exercicio01.Entities
     {
         public int IdProduto { get; set; }
         public string Nome { get; set; }
-        public decimal Preco { get; set; }
+        public double Preco { get; set; }
         public int Quantidade { get; set; }
         public DateTime DataCompra { get; set; }
     }
